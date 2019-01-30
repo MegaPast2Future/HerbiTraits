@@ -17,12 +17,9 @@
 # Load libraries and workspace------------------------------------------------------------------
 library(data.table)
 
-traitdir <- "/Users/elundgren/Documents/Projects/Functional_Diversity_Master/herbiTraits/Data"
-
 # Load data ------------------------------------------------------------------------------------
 
-list.files(traitdir)
-traits <- data.table(read.csv(paste0(traitdir, "/herbiTraits v0.1.csv")))
+traits <- data.table(read.csv("./Data/herbiTraits v0.1.csv"))
 
 ##basing this on the grazing/browsing framework from @Simon:
 #grazers: greater than 2 for graminoids, 1 or less for browse
