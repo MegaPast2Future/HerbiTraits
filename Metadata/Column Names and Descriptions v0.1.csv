@@ -1,0 +1,47 @@
+column,type,description,notes,to_do
+Binomial.1.2,Taxonomy ID,Based on Phylacine_1.2,,
+pre_domestic_name,Taxonomy ID,Based on Phylacine_1.2,NA except for domestic species where these column contains pre-domestic Species name,
+k_medoid_herbivore,Inclusion ID,Based on kmedoid analysis conducted by @SimonSchowaneck,Subset by 'yes' to exclude marginal herbivores,
+Order.1.2,Taxonomy ID,Based on Phylacine_1.2,,
+Family.1.2,Taxonomy ID,Based on Phylacine_1.2,,
+Mass.g,Ready Data,Analysis ready data,,
+Mass.Method,Data Methods,Method of primary data acquisition,,
+Mass.Source,Data Sources,,,Requires reformating
+Mass.Comparison,Data Sources,,,Requires reformating
+Mass.Comparison.Source,Data Sources,,,Requires reformating
+guild,Ready Data,Analysis ready data,,
+Diet.Graminoids,Ready Data,Analysis ready data,,
+Diet.Browse.Fruit,Ready Data,Analysis ready data,,
+Diet.Meat_median,Ready Data,Analysis ready data,,
+Browsing.Grazing.Method,Data Methods,Method of primary data acquisition,,
+Browsing.Grazing.Source,Data Sources,,,Requires reformating
+Browsing.Grazing.Notes,Notes,,,
+Fermentation.Type,Raw Data,"Raw, unconsolidated data",,
+Inferred.Fermentation.Type,Ready Data,Analysis ready data,,
+Inferred.Fermentation.Efficiency,Ready Data,Analysis ready data,,
+Fermentation.Type.Method,Data Methods,Method of primary data acquisition,,
+Fermentation.Type.Source,Data Sources,,,Requires reformating
+Fermentation.Type.Notes,Notes,,,
+Foraging.Aquatic,Incomplete Data,Insubstantial literature; incomplete,,
+Foraging.Terrestrial,Ready Data,Analysis ready data,,
+Foraging.Arboreal,Ready Data,Analysis ready data,,
+Foraging.Stratum.Source,Data Sources,,,Requires reformating
+Foraging.Stratum.Notes,Notes,,,
+Food.Handling,Incomplete Data,Insubstantial literature; incomplete,,
+Food.Handling.Source,Data Sources,,,Requires reformating
+Foot.Type,Raw Data,"Raw, unconsolidated data",,
+Foot.Type.Coarse,Ready Data,Analysis ready data,,
+Foot.Type.Notes,Notes,,,
+Foot.Type.Source,Data Sources,,,Requires reformating
+Diet.Seed,Incomplete Data,Insubstantial literature; incomplete,,
+Diet.Fruit,Incomplete Data,Insubstantial literature; incomplete,,
+Diet.Nectar,Incomplete Data,Insubstantial literature; incomplete,,
+Diet.Root,Incomplete Data,Insubstantial literature; incomplete,,
+Herd.Size,Incomplete Data,Insubstantial literature; incomplete,,
+Herd.Size.Notes,Notes,,,
+Herd.Size.Source,Data Sources,,,Requires reformating
+Digging.Rooting,Incomplete Data,Insubstantial literature; incomplete,,
+Digging.Rooting.Methods,Data Methods,Method of primary data acquisition,,
+Digging.Rooting.Notes,Notes,,,
+Digging.Rooting.Source,Data Sources,,,Requires reformating
+Other.Notes,Notes,"Additional traits, natural history comments",,
