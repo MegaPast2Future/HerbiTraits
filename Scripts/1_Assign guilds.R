@@ -40,7 +40,7 @@ nrow(traits[guild == "mixed feeder"])#182 mixed feeders
 traits[is.na(guild)]#6
 
 #omnivores
-traits[Diet.Meat_median > 1, ]$Binomial.1.2#guild := "omnivore"
+traits[Diet.Meat_median > 1, ]#guild := "omnivore"
 #these look like reasonable omnivores
 traits[Diet.Meat_median > 1, guild := "omnivore"]#guild := "omnivore"
 traits[guild == "omnivore", ]
