@@ -1,6 +1,5 @@
 <header>
 READ ME FOR THE HERBITRAITS TRAIT DATASET
-=
 </header>
 
 # Introduction
@@ -27,7 +26,7 @@ For detailed information on the metadata, please see the [original publication](
 # Citing the data
 When using these data, please cite:
 
-<p>*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp, D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J. (2020). Functional traits of the world’s late Quaternary large-bodied mammalian herbivores. (in review).* </p>
+*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp, D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J. (2020). Functional traits of the world’s late Quaternary large-bodied mammalian herbivores. (in review).*
 
 Please also cite the underlying data sources where relevant. 
 <br> 
@@ -43,7 +42,7 @@ _______
 <p>
 HerbiTraits is a collaboration between Aarhus University, the University of Technology, Sydney, Sussex University and the university of Massachusetts. If you want to get into contact with us, please contact Erick J. Lundgren (erick.lundgren@gmail.com) or Simon D. Schowanek (simondschowanek@gmail.com).
 </p>
-_______
+
 
 
 
