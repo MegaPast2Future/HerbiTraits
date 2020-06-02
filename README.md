@@ -40,7 +40,7 @@ We aim to maintain HerbiTraits with the best available data and to incorporate o
 
 _______
 <p>
-HerbiTraits is a collaboration between Aarhus University, the University of Technology, Sydney, Sussex University and the university of Massachusetts. For more information please contact Erick J. Lundgren (erick.lundgren@gmail.com) or Simon D. Schowanek (simondschowanek@gmail.com).
+HerbiTraits is a collaboration between Aarhus University, the University of Technology Sydney, Sussex University and the university of Massachusetts Amherst. For more information please contact Erick J. Lundgren (erick.lundgren@gmail.com) or Simon D. Schowanek (simondschowanek@gmail.com).
 </p>
 _______
 
