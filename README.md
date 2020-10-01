@@ -32,7 +32,7 @@ Please also cite the underlying data sources where relevant.
 <br> 
 
 # Updates
-We aim to maintain HerbiTraits with the best available data and to incorporate other ecologically relevant traits in the future. We urge users to report errors or updates on newly published data, to use for correction or integration into HerbiTraits. Corrections can be sent to *EMAIL@email.com* 
+We aim to maintain HerbiTraits with the best available data and to incorporate other ecologically relevant traits in the future. We urge users to report errors or updates on newly published data, to use for correction or integration into HerbiTraits. You can send us your corrections by filling in [the following form](https://forms.gle/6WBK6GkrkPit9x9Y6).
 <br>
 <br>
 <br>
