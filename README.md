@@ -26,7 +26,7 @@ For detailed information on the metadata, please see the [original publication](
 # Citing the data
 When using these data, please cite:
 
-*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp, D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J. (2020). Functional traits of the world’s late Quaternary large-bodied mammalian herbivores. (in review).*
+*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp, D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J. (2020). Functional traits of the world’s late Quaternary large-bodied mammalian and avian herbivores. (In Review).*
 
 Please also cite the underlying data sources where relevant. 
 <br> 
