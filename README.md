@@ -3,7 +3,7 @@ READ ME FOR THE HERBITRAITS TRAIT DATASET
 </header>
 
 # Introduction
-HerbiTraits is a functional trait dataset that contains functional traits of all large-bodied (≥10 kg), terrestrial, mammalian and avian herbivores that lived during the last 130,000 years (n = 545 species). The mammalian component of the dataset is based on PHYLACINE V1.2 taxonomy and root traits, but we have provided more detailed trait information for the species of interest. The avian component has been added by the authors of HerbiTraits. HerbiTraits includes data on: 
+HerbiTraits is a functional trait dataset that contains functional traits of all large-bodied (≥10 kg), terrestrial, avian and mammalian herbivores that lived during the last 130,000 years (n = 545 species). The mammalian component of the dataset is based on PHYLACINE V1.2 taxonomy and root traits, but we have provided more detailed trait information for the species of interest. The avian component has been added by the authors of HerbiTraits. HerbiTraits includes data on: 
 
 * Body Mass
 * Diet
@@ -26,7 +26,7 @@ For detailed information on the metadata, please see the [original publication](
 # Citing the data
 When using these data, please cite:
 
-*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp, D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J. (2020). Functional traits of the world’s late Quaternary large-bodied mammalian and avian herbivores. (In Review).*
+*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp, D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J. (2020). Functional traits of the world’s late Quaternary large-bodied avian and mammalian herbivores. (In Review, Nature Scientific Data).*
 
 Please also cite the underlying data sources where relevant. 
 <br> 
