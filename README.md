@@ -33,12 +33,11 @@ The HerbiTraits dataset is hosted on
 
 # Using the data
 
-HerbiTraits consists of an Excel spreadsheet containing metadata (column
-names and descriptions), the trait dataset, and references as three
-separate sheets. The dataset is open-access. For detailed information on
-the metadata, please see the [original
-publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in *Scientific
-Data*. <br>
+HerbiTraits consists of an Excel spreadsheet containing metadata, the
+trait dataset, and references as three separate sheets. The dataset is
+open-access. For detailed information on the metadata, please see the
+[original publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in
+*Scientific Data*. <br>
 
 # Citing the data
 
