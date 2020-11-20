@@ -1,4 +1,4 @@
-READ ME FOR THE HERBITRAITS TRAIT DATASET
+Functional traits of the world’s late Quaternary large-bodied avian and mammalian herbivores
 ================
 2020/10/22
 
@@ -20,7 +20,7 @@ added by the authors of HerbiTraits. HerbiTraits includes data on:
 
 Each of these traits is fundamental to the ecological impact that large
 herbivores have on terrestrial ecosystems. Trait data were compiled from
-557 sources and represent the best available knowledge on the functional
+>557 sources and represent the best available knowledge on the functional
 traits of late Quaternary herbivorous mammals. As such, HerbiTraits
 provides a tool for the analysis of herbivore functional diversity both
 past and present, as well as their effects on ecosystem dynamics. <br>
@@ -65,7 +65,7 @@ form](https://forms.gle/6WBK6GkrkPit9x9Y6). <br> <br> <br> <br>
 
 HerbiTraits is a collaboration between Aarhus University, the University
 of Technology, Sydney, Sussex University and the University at Albany.
-If you want to get into contact with us, please contact Erick J.
+If you want to contact us, please email Erick J.
 Lundgren (<erick.lundgren@gmail.com>) or Simon D. Schowanek
 (<simondschowanek@gmail.com>).
 
