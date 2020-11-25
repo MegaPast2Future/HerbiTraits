@@ -1,23 +1,23 @@
 ---
 title: "READ ME FOR THE HERBITRAITS TRAIT DATASET"
-date: "2020/10/22"
+date: "2020/11/25"
 output: rmarkdown::github_document
 ---
 
 ```{r load_herbitraits, include = FALSE }
+## Clear Working Memory
+rm(list = ls())
+
 ## Check Working Directory
 getwd()
 
-## Load Packages
-library(gdata) # to read excel files
-
 ## Load Data
-herbitraits.data = read.xls(xls = "herbiTraits/herbiTraits_v1.0_final.xlsx", sheet = "Data", header = TRUE)
-
-herbitraits.references =  read.xls(xls = "herbiTraits/herbiTraits_v1.0_final.xlsx", sheet = "References", header = TRUE)
+herbitraits.data = read.csv("./data/Version_1/HerbiTraits_V1/HerbiTraits_Data_v1.csv")
+herbitraits.references = read.csv("./data/Version_1/HerbiTraits_V1/HerbiTraits_References_v1.csv")
 
 ```
 
+![HerbiTraits Logo](./HerbiTraits_Logo.png)
 
 # Introduction
 HerbiTraits is a functional trait dataset that contains functional traits of all large-bodied (≥10 kg), terrestrial, avian and mammalian herbivores that lived during the last 130,000 years (n = `r nrow(herbitraits.data)` species). The mammalian component of the dataset is based on PHYLACINE V1.2 taxonomy and root traits, but we have provided more detailed trait information for the species of interest. The avian component has been added by the authors of HerbiTraits. HerbiTraits includes data on: 
@@ -32,7 +32,7 @@ Each of these traits is fundamental to the ecological impact that large herbivor
 <br>
 
 # Downloading the data
-The HerbiTraits dataset is hosted on [Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as [Github](https://github.com/ejlundgren/herbiTraits.git).
+The HerbiTraits dataset is hosted on [Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as [Github](https://github.com/MegaPast2Future/HerbiTraits).
 <br>
 
 # Using the data
