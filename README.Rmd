@@ -36,8 +36,12 @@ The HerbiTraits dataset is hosted on [Figshare](https://www.youtube.com/watch?v=
 <br>
 
 # Using the data
-HerbiTraits consists of an Excel spreadsheet containing metadata, the trait dataset, and references as three separate sheets. The dataset is open-access.
+HerbiTraits consists of three csv files containing metadata, the trait dataset, and references. They are also available as an excel file. The dataset is open-access.
 For detailed information on the metadata, please see the [original publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in *Scientific Data*.
+<br>
+
+The HerbiTraits repo also contains a folder with "incomplete traits". These are traits that the authors have collected for some species, but not all. We have included them here so they can serve as a basis for further analysis. However, they should be considered "work in progress" and they may change in future updates. Just like the herbitraits base file, we have provided three separate CSV files with metadata, trait data and references and an excel file which combines these CSV files. 
+
 <br>
 
 # Citing the data
