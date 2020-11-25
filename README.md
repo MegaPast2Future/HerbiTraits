@@ -1,6 +1,6 @@
 READ ME FOR THE HERBITRAITS TRAIT DATASET
 ================
-2020/10/22
+2020/11/25
 
 ![HerbiTraits Logo](./HerbiTraits_Logo.png)
 
@@ -31,15 +31,26 @@ past and present, as well as their effects on ecosystem dynamics. <br>
 
 The HerbiTraits dataset is hosted on
 [Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as
-[Github](https://github.com/ejlundgren/herbiTraits.git). <br>
+[Github](https://github.com/MegaPast2Future/HerbiTraits). <br>
 
 # Using the data
 
-HerbiTraits consists of an Excel spreadsheet containing metadata, the
-trait dataset, and references as three separate sheets. The dataset is
-open-access. For detailed information on the metadata, please see the
-[original publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in
-*Scientific Data*. <br>
+HerbiTraits consists of three csv files containing metadata, the trait
+dataset, and references. They are also available as an excel file. The
+dataset is open-access. For detailed information on the metadata, please
+see the [original
+publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in *Scientific
+Data*. <br>
+
+The HerbiTraits repo also contains a folder with “incomplete traits”.
+These are traits that the authors have collected for some species, but
+not all. We include them here so they can serve as a basis for further
+analysis. However,they have not necessarily been vetted with the same
+rigour as the HerbiTraits base traits and they may change in future
+updates. Just like the herbitraits base file, we have provided metadata,
+trait data and references as three separate CSV files and an excel file.
+
+<br>
 
 # Citing the data
 
