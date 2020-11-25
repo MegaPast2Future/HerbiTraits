@@ -1,0 +1,14 @@
+Column,Description,Levels / Range,Type
+Water.Dependence,"Free water dependence. Some species can extract water from their food, others require 'free water'. ""None"" = A species that obtains all water from forage or has specialized adaptations that allow the species to go long periods without free water; ""Low"" = A species that requires free water, especially during certain life stages (e.g. while lactating) but can go intermittent periods without; ""High"" = A species that requires free water on regular intervals, and whose distribution is strongly shaped by surface water availability. Free water dependence is based on Hempson et al. 2015, but was modified for the 'Low' category.","""None"", ""Low"", ""High""",Categorical
+Water.Dependence.Method,Method used to assign water dependence.,N/A,Text annotation
+Water.Dependence.Reliability,"Ordinal ranking of best available evidence quality, with direct observed evidence ranking highest (3), and expert opinions and taxonomic inference ranking lowest (0) (see Table 2).",0 - 3,Ordinal
+Water.Dependence.Notes,Notes on water dependence.,N/A,Text annotation
+Water.Dependence.Reference,Water dependence references,N/A,Text annotation
+Scratch.Digging,Binary variable indicating whether the species was likely to be adapted for scratch digging for food. We defined scratch-digging as the use of forelimbs to excavate soil. ,0 / 1,Binary
+Well.Digging,Binary variable indicating whether the species has been documented digging wells to groundwater. ,0 / 1,Binary
+Burrowing,"Binary variable indicating whether the species digs burrows, based on observed or morphological evidence.",0 / 1,Binary
+Rooting,"Binary variable indicating whether the species roots, using mouth, face, or tusks, to consume underground food resources.",0 / 1,Binary
+Digging.Rooting.Methods,Method used in designating digging habit,N/A,Text annotation
+Digging.Rooting.Method.Reliability,"Ordinal ranking of best available evidence quality, with direct observed evidence ranking highest (3), and expert opinions and taxonomic inference ranking lowest (0) (see Table 2).",0 - 3,Ordinal
+Digging.Rooting.Notes,Notes on digging.,N/A,Text annotation
+Digging.Rooting.Reference,Digging references.,N/A,Text annotation
