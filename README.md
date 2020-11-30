@@ -53,43 +53,6 @@ Just like the herbitraits base file, we have provided three separate csv
 files with metadata, trait data and references and an excel file which
 combines these csv files. <br>
 
-# Navigating the Repository
-
-This repository contains:
-
-  - A README file
-  - The original HerbiTraits publication (will be added upon
-    publication)
-  - A Data folder
-  - A Scripts Folder
-  - An R project
-
-<br>
-
-The **Data** folder contains all the HerbiTraits data and is the part
-most users will be interested in. It contains various subfolders
-denoting the different versions of the dataset. The folder names
-*Version\_1* contains HerbiTraits Version 1, the dataset that
-accompanied the orginal publication. The other folders contain more
-recent, updated versions of the dataset and are named based on their
-version number (e.g. *version\_2*, *Version\_3* etc.). The higher the
-number the more recent the dataset. The folder named *Version\_Dev*
-contains the version of HerbiTraits that is currently under development.
-Once enough changes to the dataset have been made, the *Version\_Dev*
-folder will be published as the latest release.
-
-The **Scripts** folder contains the scripts to update and expand the
-HerbiTraits dataset. Like the “Data” folder, it contains subfolders that
-are organised and named based on the different versions. The latest
-changes to the dataset are contained in the folder called
-*Version\_Dev*. Once a new version of the HerbiTraits Dataset is
-published, this “Version\_Dev” folder will be stored under the latest
-version name, and a new Version\_Dev will be created.
-
-The scripts folder and the R project are primarily meant to aid people
-who work on HerbiTraits. They likely will not be important for most
-users. <br>
-
 # Citing the data
 
 When using these data, please cite:
