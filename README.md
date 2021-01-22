@@ -30,7 +30,7 @@ past and present, as well as their effects on ecosystem dynamics. <br>
 # Downloading the data
 
 The HerbiTraits dataset is hosted on
-[Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as here on 
+[Figshare](https://doi.org/10.6084/m9.figshare.c.5001971.v1) as well as here on 
 [Github](https://github.com/MegaPast2Future/HerbiTraits). Note that the
 updated versions of this dataset will only be available on the Github
 page. <br>
