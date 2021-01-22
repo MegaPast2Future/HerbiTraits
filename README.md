@@ -30,7 +30,7 @@ past and present, as well as their effects on ecosystem dynamics. <br>
 # Downloading the data
 
 The HerbiTraits dataset is hosted on
-[Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as
+[Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as here on 
 [Github](https://github.com/MegaPast2Future/HerbiTraits). Note that the
 updated versions of this dataset will only be available on the Github
 page. <br>
@@ -41,7 +41,7 @@ HerbiTraits consists of three csv files containing metadata, the trait
 dataset, and references. They are also available as an excel file which
 contains the three previously mentioned files. The dataset is
 open-access.For detailed information on the metadata, please see the
-[original publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in
+[original publication](https://rdcu.be/cdT5V) in
 *Scientific Data* and the metadata file. <br>
 
 In addition to the HerbiTraits trait dataset, this repo contains a
