@@ -1,6 +1,6 @@
 READ ME FOR THE HERBITRAITS TRAIT DATASET
 ================
-2020/11/25
+04 February 2022
 
 ![HerbiTraits Logo](./HerbiTraits_Logo.png)
 
@@ -14,11 +14,11 @@ taxonomy and root traits, but we have provided more detailed trait
 information for the species of interest. The avian component has been
 added by the authors of HerbiTraits. HerbiTraits includes data on:
 
-  - Body Mass
-  - Diet
-  - Fermentation Type
-  - Habitat Use
-  - Limb Morphology
+-   Body Mass
+-   Diet
+-   Fermentation Type
+-   Habitat Use
+-   Limb Morphology
 
 Each of these traits is fundamental to the ecological impact that large
 herbivores have on terrestrial ecosystems. Trait data were compiled from
@@ -37,10 +37,10 @@ page. <br>
 
 # Using the data
 
-HerbiTraits consists of three csv files containing metadata, the trait
-dataset, and references. They are also available as an excel file which
-contains the three previously mentioned files. The dataset is
-open-access.For detailed information on the metadata, please see the
+HerbiTraits consists of three csv files containing the trait dataset,
+metadata, and references. They are also available as an excel file which
+contains the three previously mentioned files as sheets. The dataset is
+open-access. For detailed information on the metadata, please see the
 [original publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in
 *Scientific Data* and the metadata file. <br>
 
@@ -57,10 +57,10 @@ combines these csv files. <br>
 
 When using these data, please cite:
 
-*Lundgren, E.J., Schowanek, S.D., Middleton, O., Davis, M., Ramp,
-D.,Pedersen, R.Ø., Sandom, C.J., Svenning,J-C.,Wallach,A.D., & Rowan, J.
-(2020). Functional traits of the world’s late Quaternary large-bodied
-avian and mammalian herbivores. (In Review, Nature Scientific Data).*
+*Lundgren, E. J., Schowanek, S. D., Rowan, J., Middleton, O., Pedersen,
+R. Ø., Wallach, A. D., … & Svenning, J. C. (2021). Functional traits of
+the world’s late Quaternary large-bodied avian and mammalian herbivores.
+Scientific Data, 8(1), 1-21.*
 
 Please also cite the underlying data sources where relevant. <br>
 
@@ -71,9 +71,16 @@ incorporate other ecologically relevant traits in the future. We urge
 users to report errors or updates on newly published data, to use for
 correction or integration into HerbiTraits. You can send us your
 corrections by filling in [the following
-form](https://forms.gle/6WBK6GkrkPit9x9Y6). <br> <br> <br> <br>
+form](https://forms.gle/6WBK6GkrkPit9x9Y6).
 
------
+Before using HerbiTraits please also check our Issues page. We use it to
+report errors found in the dataset that have not yet been changed in the
+public version of the dataset. These errors will be corrected in the
+next version of HerbiTraits.
+
+<br> <br> <br> <br>
+
+------------------------------------------------------------------------
 
 <p>
 
