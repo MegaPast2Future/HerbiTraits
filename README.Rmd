@@ -13,6 +13,7 @@ rm(list = ls())
 
 ## Check Working Directory
 getwd()
+#setwd("Users/au572919/Research/I_MegaPast2Future/HerbiTraits")
 
 ## Load Data
 herbitraits.data = read.csv("./data/Version_1/HerbiTraits_V1/HerbiTraits_Data_v1.csv")
@@ -42,7 +43,7 @@ As such, HerbiTraits provides a tool for the analysis of herbivore functional di
 
 # Downloading the data
 
-The HerbiTraits dataset is hosted on [Figshare](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as well as [Github](https://github.com/MegaPast2Future/HerbiTraits).
+The HerbiTraits dataset is hosted on [Figshare](https://doi.org/10.6084/m9.figshare.c.5001971.v1) as well as [Github](https://github.com/MegaPast2Future/HerbiTraits).
 Note that the updated versions of this dataset will only be available on the Github page.
 <br>
 
@@ -51,7 +52,7 @@ Note that the updated versions of this dataset will only be available on the Git
 HerbiTraits consists of three csv files containing the trait dataset, metadata, and references.
 They are also available as an excel file which contains the three previously mentioned files as sheets.
 The dataset is open-access.
-For detailed information on the metadata, please see the [original publication](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in *Scientific Data* and the metadata file.
+For detailed information on the metadata, please see the [original publication](https://rdcu.be/cdT5V) in *Scientific Data* and the metadata file.
 <br>
 
 In addition to the HerbiTraits trait dataset, this repo contains a folder with "incomplete traits".
