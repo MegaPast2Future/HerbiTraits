@@ -1,6 +1,6 @@
 ---
 title: "READ ME FOR THE HERBITRAITS TRAIT DATASET"
-date: "2020/11/30"
+date: "`r format(Sys.time(), '%d %B %Y')`"
 output: rmarkdown::github_document
 editor_options: 
   markdown: 
