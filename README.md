@@ -87,9 +87,9 @@ next version of HerbiTraits.
 <p>
 
 HerbiTraits is a collaboration between Aarhus University, the University
-of Technology, Sydney, Sussex University and the University at Albany.
-If you want to get into contact with us, please contact Erick J.
-Lundgren (<erick.lundgren@gmail.com>) or Simon D. Schowanek
+of Technology Sydney, Sussex University and the University at Albany. If
+you want to get into contact with us, please contact Erick J. Lundgren
+(<erick.lundgren@gmail.com>) or Simon D. Schowanek
 (<simondschowanek@gmail.com>).
 
 </p>
