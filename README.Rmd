@@ -70,7 +70,7 @@ Before using HerbiTraits please also check our Issues page. We use it to report 
 
 _______
 <p>
-HerbiTraits is a collaboration between Aarhus University, the University of Technology, Sydney, Sussex University and the University at Albany. If you want to get into contact with us, please contact Erick J. Lundgren ([erick.lundgren\@gmail.com](mailto:erick.lundgren@gmail.com){.email})  or Simon D. Schowanek ([simondschowanek\@gmail.com](mailto:simondschowanek@gmail.com){.email}).
+HerbiTraits is a collaboration between Aarhus University, the University of Technology Sydney, Sussex University and the University at Albany. If you want to get into contact with us, please contact Erick J. Lundgren ([erick.lundgren\@gmail.com](mailto:erick.lundgren@gmail.com){.email})  or Simon D. Schowanek ([simondschowanek\@gmail.com](mailto:simondschowanek@gmail.com){.email}).
 
 </p>
 
