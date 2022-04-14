@@ -1,6 +1,6 @@
 READ ME FOR THE HERBITRAITS TRAIT DATASET
 ================
-05 February 2022
+14 April 2022
 
 ![HerbiTraits Logo](./HerbiTraits_Logo.png)
 
@@ -29,7 +29,7 @@ past and present, as well as their effects on ecosystem dynamics. <br>
 
 # Downloading the data
 
-The latest version is Version_Dev. It can be download from this Github
+The latest version is Version_1.1. It can be download from this Github
 page. The original HerbiTraits dataset (Version_1) is also hosted on
 [Figshare](https://doi.org/10.6084/m9.figshare.c.5001971.v1). Note that
 the updated versions of this dataset will only be available on the
