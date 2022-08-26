@@ -13,8 +13,8 @@ getwd()
 #setwd("Users/au572919/Research/I_MegaPast2Future/HerbiTraits")
 
 ## Load Data
-herbitraits.data = read.csv("./Data/Version_1/HerbiTraits_V1/HerbiTraits_Data_v1.csv")
-herbitraits.references = read.csv("./Data/Version_1/HerbiTraits_V1/HerbiTraits_References_v1.csv")
+herbitraits.data = read.csv("./Data/Version_1.2/HerbiTraits_1.2/HerbiTraits_1.2.csv")
+herbitraits.references = read.csv("./Data/Version_1.2/HerbiTraits_1.2/HerbiTraits_References_1.2.csv")
 
 ```
 
@@ -62,6 +62,15 @@ Please also cite the underlying data sources where relevant.
 We aim to maintain HerbiTraits with the best available data and to incorporate other ecologically relevant traits in the future. We urge users to report errors or updates on newly published data, to use for correction or integration into HerbiTraits. You can send us your corrections by filling in [the following form](https://forms.gle/6WBK6GkrkPit9x9Y6).
 
 Before using HerbiTraits please also check our Issues page. We use it to report errors found in the dataset that have not yet been changed in the public version of the dataset. These errors will be corrected in the next version of HerbiTraits.
+
+
+## Updates in v1.2
+
+* We added *Sus bucculentus* as a species, to conform with PHYLACINE taxonomy
+* We made *Wallabia kitcheneri* semi-arboreal based on new evidence
+* We made *Amblyrhiza inundata* terrestrial based on the mass of the species
+* We added new trait and taxonomy papers to issues page on this repository. Note that these have not been incorporated in HerbiTraits.
+
 
 <br>
 <br>
