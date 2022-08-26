@@ -8,7 +8,7 @@ READ ME FOR THE HERBITRAITS TRAIT DATASET
 
 HerbiTraits is a functional trait dataset that contains functional
 traits of all large-bodied (≥10 kg), terrestrial, avian and mammalian
-herbivores that lived during the last 130,000 years (n = 545 species).
+herbivores that lived during the last 130,000 years (n = 546 species).
 The mammalian component of the dataset is based on PHYLACINE V1.2
 taxonomy and root traits, but we have provided more detailed trait
 information for the species of interest. The avian component has been
@@ -22,14 +22,14 @@ added by the authors of HerbiTraits. HerbiTraits includes data on:
 
 Each of these traits is fundamental to the ecological impact that large
 herbivores have on terrestrial ecosystems. Trait data were compiled from
-557 sources and represent the best available knowledge on the functional
+558 sources and represent the best available knowledge on the functional
 traits of late Quaternary herbivorous mammals. As such, HerbiTraits
 provides a tool for the analysis of herbivore functional diversity both
 past and present, as well as their effects on ecosystem dynamics. <br>
 
 # Downloading the data
 
-The latest version is Version_Dev. It can be download from this Github
+The latest version is Version_1.2. It can be download from this Github
 page. The original HerbiTraits dataset (Version_1) is also hosted on
 [Figshare](https://doi.org/10.6084/m9.figshare.c.5001971.v1). Note that
 the updated versions of this dataset will only be available on the

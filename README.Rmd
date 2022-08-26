@@ -13,8 +13,8 @@ getwd()
 #setwd("Users/au572919/Research/I_MegaPast2Future/HerbiTraits")
 
 ## Load Data
-herbitraits.data = read.csv("./Data/Version_1/HerbiTraits_V1/HerbiTraits_Data_v1.csv")
-herbitraits.references = read.csv("./Data/Version_1/HerbiTraits_V1/HerbiTraits_References_v1.csv")
+herbitraits.data = read.csv("./Data/Version_1.2/HerbiTraits_1.2/HerbiTraits_1.2.csv")
+herbitraits.references = read.csv("./Data/Version_1.2/HerbiTraits_1.2/HerbiTraits_References_1.2.csv")
 
 ```
 
