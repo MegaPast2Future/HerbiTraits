@@ -63,6 +63,15 @@ We aim to maintain HerbiTraits with the best available data and to incorporate o
 
 Before using HerbiTraits please also check our Issues page. We use it to report errors found in the dataset that have not yet been changed in the public version of the dataset. These errors will be corrected in the next version of HerbiTraits.
 
+
+## Updates in v1.2
+
+* We added *Sus bucculentus* as a species, to conform with PHYLACINE taxonomy
+* We made *Wallabia kitcheneri* semi-arboreal based on new evidence
+* We made *Amblyrhiza inundata* terrestrial based on the mass of the species
+* We added new trait and taxonomy papers to issues page on this repository. Note that these have not been incorporated in HerbiTraits.
+
+
 <br>
 <br>
 <br>

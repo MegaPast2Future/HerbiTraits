@@ -1,6 +1,6 @@
 READ ME FOR THE HERBITRAITS TRAIT DATASET
 ================
-14 April 2022
+26 August 2022
 
 ![HerbiTraits Logo](./HerbiTraits_Logo.png)
 
@@ -29,7 +29,7 @@ past and present, as well as their effects on ecosystem dynamics. <br>
 
 # Downloading the data
 
-The latest version is Version_1.1. It can be download from this Github
+The latest version is Version_Dev. It can be download from this Github
 page. The original HerbiTraits dataset (Version_1) is also hosted on
 [Figshare](https://doi.org/10.6084/m9.figshare.c.5001971.v1). Note that
 the updated versions of this dataset will only be available on the
@@ -79,6 +79,17 @@ Before using HerbiTraits please also check our Issues page. We use it to
 report errors found in the dataset that have not yet been changed in the
 public version of the dataset. These errors will be corrected in the
 next version of HerbiTraits.
+
+## Updates in v1.2
+
+-   We added *Sus bucculentus* as a species, to conform with PHYLACINE
+    taxonomy
+-   We made *Wallabia kitcheneri* semi-arboreal based on new evidence
+-   We made *Amblyrhiza inundata* terrestrial based on the mass of the
+    species
+-   We added new trait and taxonomy papers to issues page on this
+    repository. Note that these have not been incorporated in
+    HerbiTraits.
 
 <br> <br> <br> <br>
 
